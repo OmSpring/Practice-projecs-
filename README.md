@@ -1,1 +1,1 @@
-how to calculate the yuga of a given year in python
+Python program that will  calculate the yuga of a given year 
